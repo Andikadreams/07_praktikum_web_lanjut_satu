@@ -58,7 +58,7 @@
     </tr>
     @endforeach
 </table>
-<div class="my-5">
+<div class="my-2">
 {{$mahasiswas->links()}}
 </div>
 @endsection
